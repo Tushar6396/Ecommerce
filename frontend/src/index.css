@@ -34,6 +34,10 @@ main {
   width: 100%;
 }
 
+.img-large {
+  width: 100%;
+}
+
 .product-info {
   padding: 1rem;
 }
@@ -45,4 +49,9 @@ main {
 .btn-primary {
   background-color: #f0c040;
   color: black;
+}
+
+.cart-text {
+  text-decoration: none;
+  color: white;
 }
